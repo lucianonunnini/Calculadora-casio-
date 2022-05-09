@@ -23,10 +23,14 @@ if (calculo === "suma") {
 
       alert("El resultado es " + resultadodos);
     }
+    let pregunta = prompt(
+    "Desea continuar sumando? \n Responda si para continuar o esc para finalizar"
+  );
+    }
     alert("Muchas gracias por utilizar la calculadora casio de las pulgas");
 
     break;
-  }
+
 }
 //calculo resta
 else if (calculo === "resta") {
