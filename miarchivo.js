@@ -28,9 +28,6 @@ if (calculo === "suma") {
   );
     }
     alert("Muchas gracias por utilizar la calculadora casio de las pulgas");
-
-    break;
-
 }
 //calculo resta
 else if (calculo === "resta") {
